@@ -1,0 +1,16 @@
+absl-py==0.7.1
+backcall==0.1.0
+colorzero==1.1
+decorator==4.4.0
+gpiozero==1.5.0
+parso==0.4.0
+pexpect==4.7.0
+pickleshare==0.7.5
+pkg-resources==0.0.0
+prompt-toolkit==2.0.9
+ptyprocess==0.6.0
+redis==3.2.1
+RPi.GPIO==0.6.5
+six==1.12.0
+traitlets==4.3.2
+wcwidth==0.1.7
